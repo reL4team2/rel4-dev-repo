@@ -11,8 +11,6 @@
 
     <!-- Base Repository -->
     <project name="seL4_c_impl.git" path="kernel" />
-    <project name="rust-sel4.git" path="rust-sel4" revision="master_unstable" upstream="master_unstable" dest-branch="master_unstable" />
-    <project name="rust-root-task-demo-master.git" path="root-task-demo" />
     <project name="build-scripts.git" path="build-scripts" />
 
     <!-- Kernel Modules -->
